@@ -1,4 +1,6 @@
 # project_cis
 cstu information system
 
-# test
+# Installation
+Python and Django need to be installed
+
