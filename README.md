@@ -1,5 +1,6 @@
 
 # CSTU information system
+Project Structure
 ``` bash
 [CSTU_AIS]/
 ├── [CSTU_AIS]/
