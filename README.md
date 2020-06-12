@@ -1,6 +1,6 @@
 
 # CSTU information system
-Project Structure
+Project Structure.
 ``` bash
 [CSTU_AIS]/
 ├── [CSTU_AIS]/
@@ -107,7 +107,7 @@ Project Structure
 # Getting started
 CSTU Informatioin System work with Python3.
   
-To get started with CSTU Informatioin System, run the following in a virtual environment:
+To get started with CSTU Informatioin System, run the following in a virtual environment.
 
 ``` bash
 pip install django
