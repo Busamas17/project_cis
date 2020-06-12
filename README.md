@@ -10,7 +10,7 @@ pip install django
 pip install psycopg2
 pip install requests
 pip install openpyxl
-python python manage.py migrate
+python manage.py migrate
 python manage.py runserver
 ```
 Then go to the browser and enter the url http://127.0.0.1:8000/
