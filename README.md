@@ -1,5 +1,5 @@
-# project_cis
-cstu information system
+
+# CSTU information system
 # Getting started
 CSTU Informatioin System work with Python3.
   
